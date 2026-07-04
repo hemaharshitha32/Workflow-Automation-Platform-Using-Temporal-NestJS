@@ -203,8 +203,4 @@ pnpm dev
 
 
 
-This project is released under the **MIT License**.
 
----
-
-⭐ **If you found this project useful, don't forget to give it a star!**
