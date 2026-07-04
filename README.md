@@ -23,12 +23,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 
 ---
 
-# Architecture
 
-<p align="center">
-  <img src="docs/architecture.png" alt="Workflow Automation Platform Architecture" width="900"/>
-</p>
----
 
 ## Features
 
