@@ -23,12 +23,11 @@ This project addresses these problems by integrating **Temporal** as the workflo
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 <p align="center">
-  <img src="C:\Users\hemah\Downloads\ChatGPT Image Jul 4, 2026, 05_58_12 PM.png" alt="Workflow Automation Platform Architecture" width="900"/>
+  <img src="docs/architecture.png" alt="Workflow Automation Platform Architecture" width="900"/>
 </p>
-
 ---
 
 ## Features
