@@ -26,14 +26,14 @@ This project addresses these problems by integrating **Temporal** as the workflo
 # 🏗 Architecture
 
 <p align="center">
-  <img src="docs/architecture.png" alt="Workflow Automation Platform Architecture" width="900"/>
+  <img src="C:\Users\hemah\Downloads\ChatGPT Image Jul 4, 2026, 05_58_12 PM.png" alt="Workflow Automation Platform Architecture" width="900"/>
 </p>
 
 ---
 
 ## Features
 
-### ⚡ Workflow Orchestration
+###  Workflow Orchestration
 
 - Durable workflow execution
 - Retry policies
@@ -42,7 +42,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 - Scheduled workflows
 - Human-in-the-loop workflows
 
-### 🔗 Microservices
+###  Microservices
 
 - NestJS-based services
 - REST API communication
@@ -51,7 +51,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 - Service isolation
 - Horizontal scalability
 
-### 🛠 Developer Experience
+###  Developer Experience
 
 - Turborepo monorepo
 - Automatic service generators
@@ -60,7 +60,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 - Shared libraries
 - Type-safe development
 
-### 🚀 Deployment
+###  Deployment
 
 - Docker Compose
 - PostgreSQL integration
@@ -71,7 +71,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Frontend
 
@@ -106,7 +106,7 @@ This project addresses these problems by integrating **Temporal** as the workflo
 
 ---
 
-# ⭐ Key Capabilities
+#  Key Capabilities
 
 ### Durable Execution
 
@@ -134,7 +134,7 @@ Supports asynchronous communication between services using signals, updates, and
 
 ---
 
-# 💼 Example Use Cases
+#  Example Use Cases
 
 - Order Processing Systems
 - User Registration Workflows
@@ -147,7 +147,7 @@ Supports asynchronous communication between services using signals, updates, and
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```text
 workflow-automation-platform/
@@ -168,7 +168,7 @@ workflow-automation-platform/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ```bash
 # Clone the repository
@@ -192,7 +192,7 @@ pnpm dev
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Kubernetes deployment
 - CI/CD pipeline
@@ -206,19 +206,8 @@ pnpm dev
 
 ---
 
-# 🤝 Contributing
 
-Contributions are welcome!
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
-
-# 📜 License
 
 This project is released under the **MIT License**.
 
